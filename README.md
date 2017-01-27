@@ -1,4 +1,4 @@
-# Diary
+# Pensieve
 
 ##Goals and Design
 
