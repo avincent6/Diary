@@ -8,4 +8,4 @@ A redesign of the Daily Journal application "Day One".
 
 * Time Capsule of ideas, thoughts, and memories.
 * Tracks the patterns of your emotions and dreams.
-* Minimally designed to easily translate your mind into a dimension of the cloud.
+* Minimally designed to easily translate your mind into a dimension only you can access.
